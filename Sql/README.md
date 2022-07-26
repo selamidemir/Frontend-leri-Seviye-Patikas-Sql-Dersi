@@ -1,5 +1,5 @@
-# Patika Frontend İleri Seviye, Sql Dersi Ödevleri
+# Node Js Patikasi, Sql Dersi Ödevleri
 
-Patika, Frontend ileri seviye patikasında **sql** dersi için verilen ödevlerin cevaplarını içerir.
+Patika, Node Js patikasında **sql** dersi için verilen ödevlerin cevaplarını içerir.
 
 :)
