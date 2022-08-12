@@ -116,32 +116,7 @@ insert into employee (name, birtday, email) values ('Job Geelan', '1987-11-04', 
 
 -- 3-) Sütunların her birine göre diğer sütunları güncelleyecek 
 -- 5 adet UPDATE işlemi yapalım.
-UPDATE employee 
-SET name = 'Cemil Kaya',
-    birtday = '1991-01-02',
-    email = 'cekaya@kayace.com.tr'
-WHERE id = 19;
 
-UPDATE employee 
-SET name = 'Hakan Kuzu',
-    birtday = '2000-11-01',
-    email = 'kzu@hakankuzum.com'
-WHERE name = 'Margret Becconsall';
-
-UPDATE employee
-SET name = 'Nazmi Koşar',
-    birtday = '1991-05-11'
-WHERE email = 'jgeelan2r@cbslocal.com';
-
-UPDATE employee
-SET name = 'Rıfkı Atabey'
-WHERE id = 49;
-
-UPDATE employee
-SET name = 'Remzi Beybaba',
-    birtday = '1981-01-01',
-    email = 'remzi@bybabaremzi.com'
-WHERE id = 19;
 
 -- 4-) Sütunların her birine göre 
 -- ilgili satırı silecek 5 adet DELETE işlemi yapalım.
