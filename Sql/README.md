@@ -11,5 +11,6 @@ Patika, Node Js patikasında **sql** dersi için verilen ödevlerin cevapların�
 Ödev 7 yapıldı.
 Ödev 8 yapıldı.
 Ödev 9 yapıldı.
+Ödev 10 yapıldı.
 
 :)
